@@ -1,0 +1,15 @@
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\bin\Debug\net6.0\ProgramaProduto.exe
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\bin\Debug\net6.0\ProgramaProduto.deps.json
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\bin\Debug\net6.0\ProgramaProduto.runtimeconfig.json
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\bin\Debug\net6.0\ProgramaProduto.dll
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\bin\Debug\net6.0\ProgramaProduto.pdb
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.csproj.AssemblyReference.cache
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.AssemblyInfoInputs.cache
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.AssemblyInfo.cs
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.csproj.CoreCompileInputs.cache
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.dll
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\refint\ProgramaProduto.dll
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.pdb
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ProgramaProduto.genruntimeconfig.cache
+D:\MyThings\Projetos C#\ProgramaProduto\ProgramaProduto\obj\Debug\net6.0\ref\ProgramaProduto.dll

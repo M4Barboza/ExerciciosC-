@@ -1,0 +1,15 @@
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\bin\Debug\net6.0\Problema sem OO.exe
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\bin\Debug\net6.0\Problema sem OO.deps.json
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\bin\Debug\net6.0\Problema sem OO.runtimeconfig.json
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\bin\Debug\net6.0\Problema sem OO.dll
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\bin\Debug\net6.0\Problema sem OO.pdb
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.csproj.AssemblyReference.cache
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.AssemblyInfoInputs.cache
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.AssemblyInfo.cs
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.csproj.CoreCompileInputs.cache
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.dll
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\refint\Problema sem OO.dll
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.pdb
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\Problema sem OO.genruntimeconfig.cache
+D:\MyThings\Projetos C#\Problema sem OO\Problema sem OO\obj\Debug\net6.0\ref\Problema sem OO.dll

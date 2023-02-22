@@ -1,0 +1,15 @@
+D:\MyThings\Projetos C#\Exercicios2\bin\Debug\net7.0\Exercicios2.exe
+D:\MyThings\Projetos C#\Exercicios2\bin\Debug\net7.0\Exercicios2.deps.json
+D:\MyThings\Projetos C#\Exercicios2\bin\Debug\net7.0\Exercicios2.runtimeconfig.json
+D:\MyThings\Projetos C#\Exercicios2\bin\Debug\net7.0\Exercicios2.dll
+D:\MyThings\Projetos C#\Exercicios2\bin\Debug\net7.0\Exercicios2.pdb
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.csproj.AssemblyReference.cache
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.AssemblyInfoInputs.cache
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.AssemblyInfo.cs
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.csproj.CoreCompileInputs.cache
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.dll
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\refint\Exercicios2.dll
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.pdb
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\Exercicios2.genruntimeconfig.cache
+D:\MyThings\Projetos C#\Exercicios2\obj\Debug\net7.0\ref\Exercicios2.dll

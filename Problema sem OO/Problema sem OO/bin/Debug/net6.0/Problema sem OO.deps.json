@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problema sem OO/1.0.0": {
+        "runtime": {
+          "Problema sem OO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema sem OO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\bin\Debug\net6.0\Exercicio1Modulo4.exe
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\bin\Debug\net6.0\Exercicio1Modulo4.deps.json
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\bin\Debug\net6.0\Exercicio1Modulo4.runtimeconfig.json
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\bin\Debug\net6.0\Exercicio1Modulo4.dll
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\bin\Debug\net6.0\Exercicio1Modulo4.pdb
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.csproj.AssemblyReference.cache
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.AssemblyInfoInputs.cache
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.AssemblyInfo.cs
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.csproj.CoreCompileInputs.cache
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.dll
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\refint\Exercicio1Modulo4.dll
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.pdb
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\Exercicio1Modulo4.genruntimeconfig.cache
+D:\MyThings\Projetos C#\Exercicio1Modulo4\Exercicio1Modulo4\obj\Debug\net6.0\ref\Exercicio1Modulo4.dll
